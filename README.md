@@ -1,7 +1,7 @@
-visit my Portfolio
+Visit my Portfolio Link
 https://prashantkat18.github.io/portfolio/
 
-screen shot of portfolio
+Screen shot of portfolio
 
 <img src="https://user-images.githubusercontent.com/46772783/110486427-a73b2e00-8112-11eb-939f-06b9d3777fcd.png"/><br>
 <img src="https://user-images.githubusercontent.com/46772783/110486443-a904f180-8112-11eb-93fe-3e47af0b381a.png"/><br>
